@@ -1,0 +1,23 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "RestAPI with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkiputranto/Node-RestAPI.git"
+  },
+  "keywords": [
+    "RestAPI",
+    "NodeJS"
+  ],
+  "author": "Rizki Ade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkiputranto/Node-RestAPI/issues"
+  },
+  "homepage": "https://github.com/rizkiputranto/Node-RestAPI#readme"
+}
